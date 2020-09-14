@@ -1,0 +1,32 @@
+a{
+  color:black;
+}
+a:hover{
+  color:red;
+  text-decoration: none;
+}
+body{
+background-color:black;
+  color:white;
+  text-align: center;
+  background-size:auto;
+  font-family:"Times New Roman";
+
+}
+footer{
+  margin-top:2px;
+  margin-bottom:2px;
+}
+h1{
+  margin-bottom:0.5px;
+  margin-top:3px;
+}
+h2{
+  color:white;
+font-style:italic;
+  margin: 2.5px 0;
+}
+
+.h2 p{
+  color:black;
+}
